@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2023/4/4 16:09
-# @Author : zhi.hanshi
+# @Author : zhi
 # @File : fanyi
 # @Project : pythonProject1
 import hashlib
